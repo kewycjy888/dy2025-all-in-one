@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 
 let urls = [];
 let subConverter = "SUBAPI.cmliussss.net"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"; //订阅配置文件
+let subConfig = "https://raw.githubusercontent.com/kewycjy888/iptv/refs/heads/main/%E8%B4%9F%E8%BD%BD.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
